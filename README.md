@@ -1,16 +1,18 @@
-## Hi there 👋
+# I'm a Computer Engineering Student 👨🏻‍💻​
 
-<!--
-**victorgleznun/victorgleznun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year student specializing in Software Engineering. I have strong skills in modeling and developing back-end and front-end software, as well as database design.
 
-Here are some ideas to get you started:
+## Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Back-end Development**: Experienced in designing and implementing RESTful APIs and skilled in using frameworks like Spring Boot
+- **Front-end Development**: Experienced in creating intuitive user interfaces.
+- **Database Design**: Skilled in designing and managing databases for efficient data storage.
+- **Software Modeling**: Capable of creating UML diagrams and software architecture.
+
+## Experience 🤝
+
+I have worked collaboratively on various academic projects, honing my teamwork and communication skills. I enjoy sharing ideas and learning from others.
+
+## Personal Traits 🌟
+
+I consider myself an organized, competent, committed, and creative individual. I thrive in environments where I can tackle new challenges and continuously learn.
