@@ -4,10 +4,10 @@ I'm a final-year student specializing in Software Engineering. I have strong ski
 
 ## Skills 💻
 
-- **Back-end Development**: Experienced in designing and implementing RESTful APIs and skilled in using frameworks like Spring Boot
-- **Front-end Development**: Experienced in creating intuitive user interfaces.
-- **Database Design**: Skilled in designing and managing databases for efficient data storage.
-- **Software Modeling**: Capable of creating UML diagrams and software architecture.
+- 🗄️ **Back-end Development**: Experienced in designing and implementing RESTful APIs and skilled in using frameworks like Spring Boot
+- 🎨 **Front-end Development**: Experienced in creating intuitive user interfaces.
+- 📊 **Database Design**: Skilled in designing and managing databases for efficient data storage.
+- 📐 **Software Modeling**: Capable of creating UML diagrams and software architecture.
 
 ## Experience 🤝
 
